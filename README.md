@@ -48,4 +48,3 @@ Sistema de múltipla escolha que simula uma questão acadêmica sobre estruturas
    java hands_on
   ---
 **Desenvolvido por Lucas Nery Miranda** *Estudante de Ciência da Computação - UNA Contagem*
-**Desenvolvido por Lucas Nery Miranda** *Estudante de Ciência da Computação - UNA Contagem*
